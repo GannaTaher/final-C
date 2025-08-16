@@ -1,8 +1,8 @@
 # final-C
 
 # Task Manager
-![App Screenshot](Screenshots/app1.png)
-![App Screenshot](Screenshots/app2.png)
+![App Screenshot](screenshots/app1.png)
+![App Screenshot](screenshots/app2.png)
 
 ## Description
 A Clinic Management System that easy handle with Patients by 2 modes ,Written by C Language
